@@ -2,7 +2,7 @@
 
 # Kei
 
-**A Blue Archive (PC) mod menu — Dear ImGui overlay, anti-cheat bypass loader, and a device-locked key system.**
+**A Blue Archive (PC) mod menu — Dear ImGui overlay, and a device-locked key system.**
 
 by **Hare** · [@bboB-Bobb](https://github.com/bboB-Bobb) · [YouTube](https://www.youtube.com/@bboB-Bobb)
 
@@ -19,7 +19,7 @@ Kei is an in-game overlay menu for the PC version of Blue Archive. It injects a
 clean Dear ImGui interface (styled after the in-game "Shittim Chest" UI) and is
 unlocked with a **free, device-locked 24-hour key**.
 
-- **Loader** — deploys the anti-cheat bypass, launches the game, and injects the menu automatically.
+- **Loader** — it launches the game, and injects the menu automatically.
 - **Overlay menu** — toggle features, rebind hotkeys, and save your config.
 - **Key system** — get a free key from the website; it's locked to your device and lasts 24 hours.
 
