@@ -47,7 +47,7 @@ unlocked with a **free, device-locked 24-hour key**.
 ## Usage
 
 1. Download the latest release.
-2. Run **`Loader.exe`** (as administrator). It deploys the bypass, launches Blue
+2. Run **`Loader.exe`** (as administrator). Launches Blue
    Archive, and injects the menu for you.
 3. In-game, press **`Insert`** to toggle the menu.
 4. Activate your key, then enable features. Press **`End`** (panic key) to disable
