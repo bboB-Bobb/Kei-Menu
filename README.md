@@ -2,7 +2,7 @@
 
 # Kei
 
-**Blue Archive (PC) mod menu — free, device-locked key.**
+**Blue Archive (PC-GLOBAL) mod menu — free, device-locked key.**
 
 by **Hare** · [@bboB-Bobb](https://github.com/bboB-Bobb) · [YouTube](https://www.youtube.com/@bboB-Bobb)
 
