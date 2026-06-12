@@ -1,0 +1,38 @@
+# Kei-Menu is a PUBLIC, binaries-only repo: README + GitHub Releases.
+# The C++ source and the key gate stay PRIVATE so the license/LootLabs gate
+# can't be bypassed by recompiling. This .gitignore guards against accidentally
+# committing anything that shouldn't be public.
+
+# --- never publish secrets ---
+*.env
+.env*
+*.key
+*secret*
+*token*
+
+# --- never publish the game's IL2CPP dump ---
+dump.cs
+*.cs
+
+# --- keep the source + dev files private (guard against accidental adds) ---
+src/
+loader/
+injector/
+bypass/
+server/
+cmake/
+tools/
+docs/
+assets/
+CMakeLists.txt
+.superpowers/
+
+# --- build artifacts (binaries go in Releases, not the repo tree) ---
+build/
+out/
+x64/
+*.pdb
+*.ilk
+*.obj
+*.exp
+*.lib
