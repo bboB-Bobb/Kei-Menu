@@ -19,10 +19,10 @@ by **Hare** · [@bboB-Bobb](https://github.com/bboB-Bobb) · [YouTube](https://w
 |--------|--------|--------------|
 | God Mode | Instant Win | Camera FOV |
 | Instant Kill | Auto-Kill Enemy | FPS Unlock |
-| Infinite Summon | Force Crit | Global Speed |
+| Infinite Summon Duration | Force Crit | Global Speed |
 | No Skill Cost | Damage Multiplier | Battle Speed |
 | Dumb Enemy | Heal Multiplier | Skip Dialogue |
-| Player Stat Mods | Skip Battle Summary | |
+| Stat Editor | Skip Battle Summary | |
 
 ## Get a key
 
